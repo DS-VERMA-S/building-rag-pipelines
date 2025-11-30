@@ -1,0 +1,16 @@
+dotenv
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+langchain
+langchain_community
+langchain_core
+langchain-groq
+sentence-transformers
+langchain-huggingface
+pymupdf
+langchain-text-splitters
